@@ -12,7 +12,7 @@ Focused on building web apps end-to-end with **React/Next.js** on the front and 
 
 ## About me
 
-- Currently in my **1st year of a follow-up Master's** in **Software and Information Systems** at FAS, University of West Bohemia - finished my **Bachelor's in Software Engineering** there this year.
+- Currently in my **1st year of a follow-up Master's** in **Software and Information Systems** at FAV, University of West Bohemia - finished my **Bachelor's in Software Engineering** there this year.
 - Open to **part-time opportunities** alongside my studies, ideally in **web development**.
 - Based in **Pilsen, Czech Republic**
 
