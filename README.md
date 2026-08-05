@@ -57,7 +57,5 @@ Focused on building web apps end-to-end with **React/Next.js** on the front and 
 
 [![GitHub](https://img.shields.io/badge/GitHub-michroucka-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/michroucka)
 [![Email](https://img.shields.io/badge/Email-michroucka7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michroucka7@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-soon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-
-<!-- TODO: swap the LinkedIn badge link above once the account is unblocked -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Michal%20Roučka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/michroucka)
 
