@@ -47,6 +47,7 @@ Focused on building web apps end-to-end with **React/Next.js** on the front and 
 | Project | Description | Stack |
 |---|---|---|
 | [**CareTracker**](https://github.com/michroucka/CareTracker) · [Demo](https://demo.caretracker.cz) | Web app for home care services that replaces paper-based administration with a digital solution. | Spring Boot · React · Docker |
+| [**Nohy v cajku**](https://github.com/michroucka/pedicure-web) · [Live](https://www.pedikurakralovice.cz) | Marketing site, booking system, and admin panel for a real pedicure salon – email/SMS reminders, calendar sync, PWA push notifications. | Next.js · Prisma · PostgreSQL |
 | [**Umai**](https://github.com/michroucka/Umai) | Self-hosted recipe-keeping app - store recipes, scale portions, browse from your phone. | Next.js · React · SQLite/Drizzle · Docker |
 | [**TravelPlanner**](https://github.com/michroucka/TravelPlanner) | Single-page trip planner - itinerary builder, interactive map, multi-currency budget tracking. | React · Vite |
 | [**Oko-Bere**](https://github.com/michroucka/UPS-SP) | Client-server implementation of a Czech card game over a custom TCP protocol. | C++ (server) · JavaFX (client) |
