@@ -57,7 +57,8 @@ Focused on building web apps end-to-end with **React/Next.js** on the front and 
 
 ## Contact me
 
+[![Website](https://img.shields.io/badge/Website-michalroucka.cz-FF6A3D?style=for-the-badge&logo=astro&logoColor=white)](https://www.michalroucka.cz)
 [![GitHub](https://img.shields.io/badge/GitHub-michroucka-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/michroucka)
-[![Email](https://img.shields.io/badge/Email-michroucka7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michroucka7@gmail.com)
+[![Email](https://img.shields.io/badge/Email-michal%40michalroucka.cz-D14836?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:michal@michalroucka.cz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Michal%20Roučka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/michroucka)
 
